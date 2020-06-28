@@ -76,8 +76,7 @@ def runAI(color):
     return ai_move
 
 
-def chooseDif():
-    difwin = 
+def chooseDif():]
     difwin = graphics.GraphWin("Choose Difficulty")
     difwin.focus()
     entry = graphics.Entry(Point(100, 100), 20)
